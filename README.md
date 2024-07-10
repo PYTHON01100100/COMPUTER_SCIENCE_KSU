@@ -15,6 +15,9 @@
 
 
 #
+# F20_CSC111_Tutorials : https://youtube.com/playlist?list=PLpoeG8d3dx945D2L2zVwTMjY1JkMAkPt1&feature=shared
+# F20_CSC111_Labs : https://youtube.com/playlist?list=PLpoeG8d3dx95J8VeIwPAguH-sK54ZFkQa&feature=shared
+# Abdullah ALHARBI :  https://youtube.com/playlist?list=PLLIGeRasrtyFY_q9D7DkUfX8AVQ3wD_fo&feature=shared
 #
 تجمع طلاب كلية الحاسب جامعة الملك سعود   
 رابط المجموعة:
